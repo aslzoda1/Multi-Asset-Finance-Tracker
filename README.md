@@ -52,3 +52,6 @@ Multi-Asset Finance Tracker — bu an'anaviy valyutalar (Fiat) va raqamli aktivl
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=60&section=footer" width="100%"/>
 <b>💎 SECURE YOUR ASSETS — Built with ❤️ by Aslzoda 💎</b>
 </div>
+
+
+aslzoda
